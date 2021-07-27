@@ -1,0 +1,2 @@
+# traning-myself
+creation repository
