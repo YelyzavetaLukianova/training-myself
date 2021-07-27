@@ -1,2 +1,2 @@
-# traning-myself
+# training-myself
 creation repository
